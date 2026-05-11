@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wranglerjmparts.com/sitemap.xml
